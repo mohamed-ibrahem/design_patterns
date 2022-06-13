@@ -13,6 +13,7 @@
         }
     ],
     "require": {
+        "php": "^7.4|^8.0",
     	"phpunit/phpunit": "^9.5.10"
     },
     "autoload": {
@@ -20,7 +21,6 @@
             "Creational\\": "src/Creational"
         }
     },
-
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/"
