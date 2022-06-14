@@ -1,15 +1,11 @@
 {
     "name": "mohamed-ibrahim/design_patterns",
-    "description": "Code examples for all the design patterns in PHP course",
+    "description": "Code examples for all the design patterns in PHP",
     "license": ["MIT"],
     "authors": [
         {
             "name": "Mohamed Ibrahim",
             "email": "mohamed.ibr1994@gmail.com"
-        },
-        {
-            "name": "Ramy hakam",
-            "email": "pencilsoft1@gmail.com"
         }
     ],
     "require": {
